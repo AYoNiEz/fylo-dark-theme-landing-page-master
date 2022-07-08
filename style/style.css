@@ -562,7 +562,7 @@ main .container .footer .footer-wrapper .social .fab.fa-instagram:hover {
   }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 700px) {
   main .container .header {
     padding: 2.5rem 2rem;
   }
